@@ -1,0 +1,12 @@
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.deps.json
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.runtimeconfig.json
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.runtimeconfig.dev.json
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.dll
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/netcoreapp3.1/SyntaxSugarExercise.pdb
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.csprojAssemblyReference.cache
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.AssemblyInfoInputs.cache
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.AssemblyInfo.cs
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.dll
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.pdb
+/Users/key/Desktop/Repos/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/netcoreapp3.1/SyntaxSugarExercise.genruntimeconfig.cache
